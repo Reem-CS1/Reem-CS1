@@ -2,7 +2,7 @@
   <style>
     text {
       font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
-      font-size: 18px;
+      font-size: 22px;
       fill: #F9E2AF;
     }
   </style>
