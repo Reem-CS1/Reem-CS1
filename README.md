@@ -8,9 +8,7 @@
   ### 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="JavaFX" alt="JavaFX" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openjdk/openjdk-original.svg" title="Scene Builder" alt="Scene Builder" height="48" />
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" title="Assembly" alt="Assembly" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="JavaFX & Scene Builder" alt="JavaFX" height="48" />
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="SQL" alt="SQL" height="48" />
   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" alt="C++" height="48" />
   <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML" alt="HTML" height="48" />
