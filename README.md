@@ -1,7 +1,6 @@
 <img src="assets/intro.svg" alt="Intro" />
 
 ---
-
 ### 👩🏻‍💻 About Me
 - 💻 Computer Science Student at Umm Al-Qura University
 - 📱 Interested in Software Development, Web Development
