@@ -1,4 +1,4 @@
-
+<img src="assets/intro.svg" alt="Intro" />
 
 ---
 
