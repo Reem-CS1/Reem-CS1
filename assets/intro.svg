@@ -2,8 +2,8 @@
   <style>
     text {
       font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
-      font-size: 22px;
-      fill: #A6E3A1;
+      font-size: 18px;
+      fill: F9E2AF;
     }
   </style>
   <text x="10" y="35">Hi, I'm Reem 🌸</text>
