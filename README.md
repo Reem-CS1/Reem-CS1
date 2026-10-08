@@ -6,13 +6,12 @@
 - 🎯 Goal: Build smart and meaningful technology solutions
 
   ### 🛠️ Tech Stack & Tools
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,mysql,git,github&theme=dark" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" height="48" />
+  <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=openjdk&logoColor=white" title="JavaFX" alt="JavaFX" height="48" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" title="Assembly" alt="Assembly" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="SQL" alt="SQL" height="48" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" alt="C++" height="48" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML" alt="HTML" height="48" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS" alt="CSS" height="48" />
 </p>
