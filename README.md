@@ -1,3 +1,7 @@
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A6E3A1&multiline=true&repeat=false&width=600&height=120&lines=Hi+there!+👋;I'm+Reem,+Computer+Science+Student;at+Umm+Al-Qura+University" alt="Intro" />
+
+---
+
 ### 👩🏻‍💻 About Me
 
 - 💻 Computer Science Student at Umm Al-Qura University
