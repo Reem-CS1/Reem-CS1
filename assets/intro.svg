@@ -1,28 +1,16 @@
-<table>
-  <tr>
-    <td align="center" width="35%" style="padding-right: 20px;">
-      <img src="https://github.com/user-attachments/assets/b1504799-79e9-492b-b8d7-4e760141c695" width="180" />
-    </td>
-    <td style="border-left: 2px solid #444; padding-left: 20px;" width="65%">
-      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="150" viewBox="0 0 760 150">
-        <style>
-          text {
-            font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-            font-size: 20px;
-            fill: #F9E2AF;
-          }
-        </style>
-        <text x="10" y="30">Hi, I'm Reem 🌸</text>
-        <text x="10" y="65">Creative mind, passionate about learning</text>
-        <text x="10" y="100">I turn ideas into smart, meaningful tech</text>
-        <text x="10" y="135">Computer Science Student • Future Developer</text>
-      </svg>
-    </td>
-  </tr>
-</table>
-
-
-
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="170" viewBox="0 0 760 170">
+  <style>
+    text {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+      font-size: 18px;
+      fill: #F9E2AF;
+    }
+  </style>
+  <text x="10" y="35">Hi, I'm Reem 🌸</text>
+  <text x="10" y="70">Creative mind, passionate about learning</text>
+  <text x="10" y="105">I turn ideas into smart, meaningful tech</text>
+  <text x="10" y="140">Computer Science Student • Future Developer</text>
+</svg>
 
 
 
