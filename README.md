@@ -5,7 +5,9 @@
 - 🌱 Currently Learning about AI Models and Computer Networks
 - 🎯 Goal: Build smart and meaningful technology solutions
 
-  ### 🛠️ Tech Stack & Tools
+---
+
+### 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="JavaFX & Scene Builder" alt="JavaFX" height="48" />
